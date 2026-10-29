@@ -1,0 +1,76 @@
+{
+  "organisation": "Woodgrove Clearing · IAM operations",
+  "as_of": "2026-10-01 09:00",
+  "period_start": "2026-09-01",
+  "leaver_grace_days": 1,
+  "mover_grace_days": 14,
+  "joiner_window_days": 30,
+  "inactive_days": 90,
+  "guest_inactive_days": 90,
+  "privileged_inactive_days": 45,
+  "pim_roles": [
+    "Global Administrator",
+    "Privileged Role Administrator",
+    "Privileged Authentication Administrator",
+    "Security Administrator",
+    "Exchange Administrator",
+    "SharePoint Administrator",
+    "User Administrator",
+    "Conditional Access Administrator",
+    "Application Administrator",
+    "Cloud Application Administrator",
+    "Intune Administrator",
+    "Authentication Administrator"
+  ],
+  "critical_roles": [
+    "Global Administrator",
+    "Privileged Role Administrator",
+    "Privileged Authentication Administrator"
+  ],
+  "break_glass": [
+    "bg-admin01@woodgroveclearing.example",
+    "bg-admin02@woodgroveclearing.example"
+  ],
+  "tier0_groups": [
+    "Domain Admins",
+    "Enterprise Admins",
+    "Schema Admins",
+    "Administrators",
+    "Account Operators",
+    "Backup Operators",
+    "Server Operators",
+    "Print Operators"
+  ],
+  "approved_tier0": [
+    "adm-akeller",
+    "adm-bnakamura",
+    "adm-coconnor",
+    "adm-vhale"
+  ],
+  "admin_account_pattern": "^(adm|admin)[-_.]",
+  "service_account_pattern": "^(svc|sa)[-_.]",
+  "pam_rotation_days": 90,
+  "pam_rotation_by_platform": {
+    "CloudBreakGlass": 180
+  },
+  "vault_required": [
+    "tier0",
+    "admin",
+    "break_glass"
+  ],
+  "revoke_sla_days": 5,
+  "rubber_min_items": 50,
+  "rubber_max_minutes": 10,
+  "rubber_approve_pct": 100,
+  "owners": {
+    "leavers": "IAM operations lead",
+    "movers": "IAM operations lead",
+    "joiners": "HR operations",
+    "accounts": "IAM operations lead",
+    "privileged": "Head of infrastructure",
+    "pam": "PAM administrator",
+    "service": "IAM operations lead",
+    "guests": "IAM operations lead",
+    "recert": "IAM service owner"
+  }
+}

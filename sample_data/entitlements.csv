@@ -1,0 +1,20 @@
+Group,Application,Tier,Owner,Department,Recertify every days,Privileged,Last certified
+Domain Admins,Active Directory (corp),Tier 0,Marcus Webb,,30,Yes,2026-08-05
+Enterprise Admins,Active Directory (forest),Tier 0,Marcus Webb,,30,Yes,2026-09-02
+Schema Admins,Active Directory (forest),Tier 0,Marcus Webb,,30,Yes,2026-09-02
+APP-ClearTrade-Trader,ClearTrade trading platform,Tier 1,Samuel Achterberg,Trading Operations,90,No,2026-03-20
+APP-RiskEngine-Analyst,Risk engine,Tier 1,Priya Raman,Risk Management,90,No,2026-03-20
+APP-Margin-Admin,Margin calculator administration,Tier 1,Priya Raman,Risk Management,90,No,2026-03-20
+APP-SettleNet-Operator,SettleNet settlement,Tier 1,Jorge Valcárcel,Settlement,90,No,2026-03-20
+APP-SWIFT-Alliance-Operator,SWIFT Alliance Access,Tier 1,Ingrid Solberg,Treasury,90,No,2026-03-20
+APP-ClearTrade-ReadOnly,ClearTrade trading platform,Tier 2,Owen Marsh,Clearing Operations,180,No,2026-03-20
+APP-Treasury-Cash,Treasury cash management,Tier 2,Ingrid Solberg,Treasury,180,No,2026-03-20
+APP-SAP-FI-Poster,SAP FI journal posting,Tier 2,Paula Lindqvist,Finance,180,No,2026-03-20
+APP-HRIS-HRBP,HR information system,Tier 2,Carmen Ibáñez,Human Resources,180,No,2026-03-20
+FS-Compliance-Restricted,Compliance restricted share,Tier 2,Elliot Fairbanks,Compliance,180,No,2026-03-20
+FS-Legal-Contracts,Legal contracts share,Tier 2,Ruth Okonkwo,Legal,180,No,2026-03-20
+APP-Splunk-SecOps,Splunk security operations,Tier 2,Nadia Brennan,Information Security,180,No,2026-03-20
+APP-CRM-ClientServices,Client CRM,Tier 3,Daniel Moreau,Client Services,365,No,2025-11-10
+APP-ServiceNow-ITIL,ServiceNow ITIL role,Tier 3,Marcus Webb,Technology,365,No,2025-11-10
+GG-AllStaff,All staff,Tier 3,Carmen Ibáñez,,,No,
+VPN-Users,Remote access VPN,Tier 3,Carmen Ibáñez,,,No,

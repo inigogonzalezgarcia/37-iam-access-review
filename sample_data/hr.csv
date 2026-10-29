@@ -1,0 +1,601 @@
+Employee ID,Name,Department,Manager ID,Status,Start date,End date,Last movement date,Previous department,Cost centre,Location
+WC10004,Helena Marsh,Executive,,Active,2017-12-28,,,,CC-EXE-10,Madrid
+WC10007,Samuel Achterberg,Trading Operations,WC10004,Active,2014-09-06,,,,CC-TOP-10,London
+WC10010,Owen Marsh,Clearing Operations,WC10004,Active,2017-11-24,,,,CC-CLO-30,Madrid
+WC10013,Priya Raman,Risk Management,WC10004,Active,2017-09-22,,,,CC-RSK-20,London
+WC10016,Jorge Valcárcel,Settlement,WC10004,Active,2014-05-14,,,,CC-STL-10,Madrid
+WC10018,Ingrid Solberg,Treasury,WC10004,Active,2016-03-28,,,,CC-TRS-20,Frankfurt
+WC10019,Paula Lindqvist,Finance,WC10004,Active,2017-02-16,,,,CC-FIN-10,Madrid
+WC10021,Marcus Webb,Technology,WC10004,Active,2017-12-30,,,,CC-TEC-30,Madrid
+WC10023,Nadia Brennan,Information Security,WC10004,Active,2017-07-15,,,,CC-ISC-30,Madrid
+WC10026,Elliot Fairbanks,Compliance,WC10004,Active,2016-04-16,,,,CC-CMP-30,London
+WC10028,Carmen Ibáñez,Human Resources,WC10004,Active,2016-07-16,,,,CC-HRS-10,Madrid
+WC10029,Ruth Okonkwo,Legal,WC10004,Active,2014-12-23,,,,CC-LEG-10,London
+WC10031,Daniel Moreau,Client Services,WC10004,Active,2014-09-05,,,,CC-CLS-10,Madrid
+WC10032,Anna Keller,Technology,WC10021,Active,2024-03-19,,,,CC-TEC-20,Madrid
+WC10034,Ben Nakamura,Technology,WC10021,Active,2020-02-14,,,,CC-TEC-30,Madrid
+WC10037,Ciaran O'Connor,Technology,WC10021,Active,2021-09-19,,,,CC-TEC-10,Madrid
+WC10040,Tomas Novak,Technology,WC10021,Active,2024-08-22,,,,CC-TEC-20,Madrid
+WC10042,Rafael Kowalski,Technology,WC10021,Active,2024-11-15,,,,CC-TEC-20,Madrid
+WC10043,Lena Brandt,Technology,WC10021,Active,2023-11-01,,,,CC-TEC-10,Madrid
+WC10046,Dana Foster,Information Security,WC10023,Active,2016-10-20,,,,CC-ISC-20,Madrid
+WC10049,Viktor Hale,Technology,WC10021,Terminated,2021-05-16,2026-09-11,,,CC-TEC-20,Madrid
+WC10050,Lucas Grant,Trading Operations,WC10007,Terminated,2012-03-20,2026-09-18,,,CC-TOP-20,London
+WC10051,Maya Poole,Client Services,WC10031,Terminated,2023-06-18,2026-09-25,,,CC-CLS-20,Madrid
+WC10053,Jonas West,Clearing Operations,WC10010,Terminated,2013-07-24,2026-09-29,,,CC-CLO-20,Madrid
+WC10056,Kenji Sato,Settlement,WC10016,Terminated,2025-01-11,2026-09-16,,,CC-STL-20,Madrid
+WC10057,Esther White,Client Services,WC10031,Terminated,2012-07-19,2026-09-30,,,CC-CLS-20,Madrid
+WC10059,Hugo Lindqvist,Technology,WC10021,Terminated,2019-11-30,2026-08-14,,,CC-TEC-30,Madrid
+WC10062,Claire Dubois,Finance,WC10019,Active,2015-08-05,,2026-08-10,Trading Operations,CC-FIN-30,Madrid
+WC10063,Rohan Patel,Risk Management,WC10013,Active,2012-04-28,,2026-09-24,Settlement,CC-RSK-20,London
+WC10064,Marco Rivera,Settlement,WC10016,Active,2019-01-04,,,,CC-STL-10,Madrid
+WC10067,Silvia Bianchi,Risk Management,WC10013,Pending hire,2026-10-05,,,,CC-RSK-30,London
+WC10070,Aaron Hughes,Client Services,,Active,2026-09-14,,,,CC-CLS-10,Madrid
+WC10072,Martin Arnaiz,Executive,WC10004,Terminated,2018-02-19,2026-09-03,,,CC-EXE-10,Madrid
+WC10074,Olga Duarte,Executive,WC10004,Active,2015-03-26,,,,CC-EXE-20,Madrid
+WC10077,Cristina Fischer,Executive,WC10004,Active,2013-02-07,,,,CC-EXE-10,Madrid
+WC10078,Ivan Lozano,Executive,WC10004,Terminated,2024-07-05,2026-06-05,,,CC-EXE-30,Madrid
+WC10080,Mia Abad,Trading Operations,WC10007,Active,2017-05-21,,,,CC-TOP-10,London
+WC10083,Andrea Lozano,Trading Operations,WC10007,Active,2014-12-10,,,,CC-TOP-10,London
+WC10084,Fiona Herrera,Trading Operations,WC10007,Active,2014-03-20,,,,CC-TOP-20,London
+WC10087,Camille Benitez,Trading Operations,WC10007,Terminated,2015-07-12,2026-07-23,,,CC-TOP-10,London
+WC10090,Mateo Molina,Trading Operations,WC10007,Active,2017-07-08,,,,CC-TOP-10,London
+WC10092,Sara Navarro,Trading Operations,WC10007,Active,2022-08-27,,,,CC-TOP-10,London
+WC10093,Alba Pardo,Trading Operations,WC10007,Active,2024-03-19,,,,CC-TOP-10,London
+WC10094,Tobias Fuentes,Trading Operations,WC10007,Active,2016-10-06,,,,CC-TOP-30,London
+WC10095,Beatriz Rubio,Trading Operations,WC10007,Active,2026-09-01,,,,CC-TOP-10,London
+WC10098,Maria Navarro,Trading Operations,WC10007,Active,2012-03-18,,,,CC-TOP-30,London
+WC10099,Gabriel Fischer,Trading Operations,WC10007,Active,2024-08-28,,,,CC-TOP-10,London
+WC10100,Sergio Bauer,Trading Operations,WC10007,Active,2015-11-15,,,,CC-TOP-10,London
+WC10102,Hugo Lozano,Trading Operations,WC10007,Active,2013-07-14,,,,CC-TOP-30,London
+WC10104,Clara Blanco,Trading Operations,WC10007,Active,2013-01-24,,,,CC-TOP-10,London
+WC10105,Cristina Vega,Trading Operations,WC10007,Active,2021-11-16,,,,CC-TOP-20,London
+WC10108,Victor Pardo,Trading Operations,WC10007,Active,2023-03-03,,,,CC-TOP-10,London
+WC10111,Gabriel Soler,Trading Operations,WC10007,Active,2018-04-18,,,,CC-TOP-10,London
+WC10112,Yara Peters,Trading Operations,WC10007,Active,2024-03-19,,,,CC-TOP-20,London
+WC10113,Nora Urquijo,Trading Operations,WC10007,Active,2018-09-28,,,,CC-TOP-20,London
+WC10115,Mateo Abad,Trading Operations,WC10007,Active,2025-01-08,,,,CC-TOP-20,London
+WC10116,Karin Weber,Trading Operations,WC10007,Active,2017-11-10,,,,CC-TOP-20,London
+WC10117,Maria Lozano,Trading Operations,WC10007,Active,2019-06-26,,,,CC-TOP-30,London
+WC10120,Pedro Vega,Trading Operations,WC10007,Active,2020-01-11,,,,CC-TOP-20,London
+WC10123,Cristina Weber,Trading Operations,WC10007,Active,2020-02-16,,,,CC-TOP-10,London
+WC10125,Zoe Cano,Trading Operations,WC10007,Active,2022-12-09,,,,CC-TOP-20,London
+WC10127,Ana Zamora,Trading Operations,WC10007,Active,2025-07-21,,,,CC-TOP-30,London
+WC10128,Martin Ortega,Trading Operations,WC10007,Active,2024-11-25,,,,CC-TOP-20,London
+WC10130,Olga Blanco,Trading Operations,WC10007,Active,2019-03-01,,,,CC-TOP-10,London
+WC10131,Alice Mendez,Trading Operations,WC10007,Active,2012-12-27,,,,CC-TOP-10,London
+WC10133,Pablo Schmidt,Trading Operations,WC10007,Active,2022-03-31,,,,CC-TOP-10,London
+WC10134,Marta Pardo,Trading Operations,WC10007,Active,2022-12-24,,,,CC-TOP-20,London
+WC10135,Patricia Delgado,Trading Operations,WC10007,Active,2020-04-21,,,,CC-TOP-10,London
+WC10136,Nora Zimmer,Trading Operations,WC10007,Active,2015-09-25,,,,CC-TOP-20,London
+WC10138,Carlos Eriksen,Trading Operations,WC10007,Active,2013-09-26,,,,CC-TOP-10,London
+WC10141,Carlos Vega,Trading Operations,WC10007,Active,2014-05-28,,,,CC-TOP-30,London
+WC10142,Emma Marin,Trading Operations,WC10007,Active,2014-03-27,,,,CC-TOP-30,London
+WC10144,Alba Cano,Trading Operations,WC10007,Active,2024-05-03,,,,CC-TOP-10,London
+WC10145,Adrian Serrano,Trading Operations,WC10007,Active,2019-06-09,,,,CC-TOP-30,London
+WC10147,Tobias Reyes,Trading Operations,WC10007,Active,2024-02-22,,,,CC-TOP-20,London
+WC10150,Ana Rojas,Trading Operations,WC10007,Active,2013-08-06,,,,CC-TOP-30,London
+WC10152,Erik Eriksen,Trading Operations,WC10007,Active,2017-08-13,,,,CC-TOP-30,London
+WC10155,Maria Romero,Trading Operations,WC10007,Active,2013-04-26,,,,CC-TOP-30,London
+WC10157,Ines Vega,Trading Operations,WC10007,Active,2018-01-11,,,,CC-TOP-30,London
+WC10160,Carlos Vidal,Trading Operations,WC10007,Active,2025-01-14,,,,CC-TOP-20,London
+WC10163,Alba Madsen,Trading Operations,WC10007,Active,2016-08-02,,,,CC-TOP-10,London
+WC10164,Ana Castro,Trading Operations,WC10007,Active,2023-02-11,,,,CC-TOP-30,London
+WC10166,Jakob Lozano,Trading Operations,WC10007,Active,2017-07-12,,,,CC-TOP-10,London
+WC10167,Rosa Cortes,Trading Operations,WC10007,Active,2015-06-28,,,,CC-TOP-30,London
+WC10170,Maria Vega,Trading Operations,WC10007,Active,2012-03-15,,,,CC-TOP-20,London
+WC10172,Elena Rubio,Trading Operations,WC10007,Active,2019-07-22,,,,CC-TOP-10,London
+WC10173,Carlos Serrano,Trading Operations,WC10007,Active,2015-01-17,,,,CC-TOP-20,London
+WC10176,Victor Reyes,Trading Operations,WC10007,Active,2022-08-06,,,,CC-TOP-10,London
+WC10177,Raquel Arnaiz,Trading Operations,WC10007,Active,2012-08-28,,,,CC-TOP-30,London
+WC10178,Laura Serrano,Trading Operations,WC10007,Active,2013-01-18,,,,CC-TOP-20,London
+WC10179,Laura Ramos,Trading Operations,WC10007,Active,2025-03-21,,,,CC-TOP-10,London
+WC10181,Elena Schmidt,Trading Operations,WC10007,Active,2024-04-28,,,,CC-TOP-20,London
+WC10182,Ruben Escobar,Legal,WC10029,Active,2023-01-06,,2026-09-04,Trading Operations,CC-LEG-20,London
+WC10184,Ruben Fuentes,Trading Operations,WC10007,Active,2020-12-09,,,,CC-TOP-10,London
+WC10187,Julia Vidal,Trading Operations,WC10007,Active,2023-01-19,,,,CC-TOP-20,London
+WC10190,Mia Keane,Trading Operations,WC10007,Active,2023-06-20,,,,CC-TOP-20,London
+WC10191,Maria Molina,Trading Operations,WC10007,Active,2024-08-26,,,,CC-TOP-30,London
+WC10194,Rosa Sanz,Trading Operations,WC10007,Active,2023-04-15,,,,CC-TOP-10,London
+WC10196,David Garrido,Trading Operations,WC10007,Active,2026-09-15,,,,CC-TOP-10,London
+WC10199,Mia Serrano,Trading Operations,WC10007,Active,2014-08-23,,,,CC-TOP-20,London
+WC10200,Laura Lorenzo,Clearing Operations,WC10010,Active,2015-10-19,,,,CC-CLO-30,Madrid
+WC10203,Julia Lorenzo,Clearing Operations,WC10010,Active,2021-02-10,,,,CC-CLO-30,Madrid
+WC10204,Grace Fuentes,Clearing Operations,WC10010,Active,2022-04-27,,,,CC-CLO-30,Madrid
+WC10205,Sofia Vogel,Clearing Operations,WC10010,Active,2017-01-29,,,,CC-CLO-10,Madrid
+WC10208,Sofia Lorenzo,Clearing Operations,WC10010,Active,2021-12-28,,,,CC-CLO-30,Madrid
+WC10209,Oliver Serrano,Clearing Operations,WC10010,Active,2018-07-29,,,,CC-CLO-10,Madrid
+WC10212,Arturo Jansen,Clearing Operations,WC10010,Active,2013-05-29,,,,CC-CLO-10,Madrid
+WC10213,David Vogel,Clearing Operations,WC10010,Active,2014-01-09,,,,CC-CLO-10,Madrid
+WC10216,Teresa Gallardo,Clearing Operations,WC10010,Active,2013-03-05,,,,CC-CLO-30,Madrid
+WC10218,Alice Pascual,Clearing Operations,WC10010,Active,2017-05-03,,,,CC-CLO-10,Madrid
+WC10221,Sara Arnaiz,Clearing Operations,WC10010,Active,2023-03-14,,,,CC-CLO-20,Madrid
+WC10223,Sergio Torres,Clearing Operations,WC10010,Active,2020-06-07,,,,CC-CLO-20,Madrid
+WC10226,Gabriel Bauer,Clearing Operations,WC10010,Active,2024-05-27,,,,CC-CLO-20,Madrid
+WC10227,Mia Soler,Clearing Operations,WC10010,Active,2013-11-18,,,,CC-CLO-10,Madrid
+WC10229,Hugo Cortes,Clearing Operations,WC10010,Active,2022-06-08,,,,CC-CLO-30,Madrid
+WC10231,Clara Herrera,Clearing Operations,WC10010,Active,2019-11-28,,,,CC-CLO-10,Madrid
+WC10234,Martin Schmidt,Clearing Operations,WC10010,Active,2017-09-08,,,,CC-CLO-20,Madrid
+WC10235,Pedro Rojas,Clearing Operations,WC10010,Active,2024-02-01,,,,CC-CLO-30,Madrid
+WC10237,Sergio Marin,Clearing Operations,WC10010,Active,2020-01-29,,,,CC-CLO-10,Madrid
+WC10240,Patricia Winter,Clearing Operations,WC10010,Active,2020-01-04,,,,CC-CLO-10,Madrid
+WC10241,Ana Reyes,Clearing Operations,WC10010,Active,2020-10-16,,,,CC-CLO-10,Madrid
+WC10243,Leo Navarro,Clearing Operations,WC10010,Active,2023-11-26,,,,CC-CLO-30,Madrid
+WC10246,Beatriz Cortes,Clearing Operations,WC10010,Active,2012-03-01,,,,CC-CLO-10,Madrid
+WC10249,Chloe Molina,Clearing Operations,WC10010,Active,2015-11-26,,,,CC-CLO-10,Madrid
+WC10250,Rosa Rubio,Clearing Operations,WC10010,Active,2017-03-24,,,,CC-CLO-10,Madrid
+WC10253,Cristina Marin,Clearing Operations,WC10010,Active,2013-09-23,,,,CC-CLO-10,Madrid
+WC10255,Erik Castro,Clearing Operations,WC10010,Active,2023-02-15,,,,CC-CLO-30,Madrid
+WC10258,Chloe Abad,Clearing Operations,WC10010,Active,2015-10-23,,,,CC-CLO-30,Madrid
+WC10261,Jakob Rojas,Clearing Operations,WC10010,Active,2019-04-24,,,,CC-CLO-10,Madrid
+WC10262,Ivan Gallardo,Clearing Operations,WC10010,Active,2014-09-09,,,,CC-CLO-10,Madrid
+WC10265,Patricia Peters,Clearing Operations,WC10010,Active,2014-11-29,,,,CC-CLO-10,Madrid
+WC10267,Lucas Jansen,Clearing Operations,WC10010,Active,2024-09-09,,,,CC-CLO-20,Madrid
+WC10268,Nora Torres,Clearing Operations,WC10010,Active,2020-06-29,,,,CC-CLO-10,Madrid
+WC10269,Hannah Delgado,Clearing Operations,WC10010,Active,2017-05-15,,,,CC-CLO-20,Madrid
+WC10272,Diego Bauer,Clearing Operations,WC10010,Active,2013-07-21,,,,CC-CLO-20,Madrid
+WC10274,Eva Sanz,Clearing Operations,WC10010,Active,2024-10-19,,,,CC-CLO-20,Madrid
+WC10275,Beatriz Torres,Clearing Operations,WC10010,Active,2014-05-11,,,,CC-CLO-20,Madrid
+WC10278,Felix Hartmann,Clearing Operations,WC10010,Active,2023-02-01,,,,CC-CLO-10,Madrid
+WC10281,Felix Cortes,Clearing Operations,WC10010,Active,2024-11-27,,,,CC-CLO-10,Madrid
+WC10282,Carlos Madsen,Clearing Operations,WC10010,Active,2013-08-22,,,,CC-CLO-10,Madrid
+WC10283,Diego Sanz,Clearing Operations,WC10010,Active,2013-10-03,,,,CC-CLO-30,Madrid
+WC10285,Isaac Vidal,Clearing Operations,WC10010,Active,2018-02-05,,,,CC-CLO-10,Madrid
+WC10286,Karin Vega,Clearing Operations,WC10010,Active,2020-04-18,,,,CC-CLO-20,Madrid
+WC10289,Lucia Pardo,Clearing Operations,WC10010,Active,2022-06-09,,,,CC-CLO-20,Madrid
+WC10292,Elena Klein,Clearing Operations,WC10010,Active,2019-09-03,,,,CC-CLO-20,Madrid
+WC10295,Laura Herrera,Clearing Operations,WC10010,Active,2022-01-07,,,,CC-CLO-20,Madrid
+WC10297,Javier Ferrer,Clearing Operations,WC10010,Active,2021-05-30,,,,CC-CLO-10,Madrid
+WC10298,Beatriz Lozano,Clearing Operations,WC10010,Active,2017-04-21,,,,CC-CLO-30,Madrid
+WC10300,Jakob Winter,Clearing Operations,WC10010,Active,2019-02-17,,,,CC-CLO-30,Madrid
+WC10301,Jakob Fuentes,Clearing Operations,WC10010,Active,2022-09-03,,,,CC-CLO-10,Madrid
+WC10302,Beatriz Vidal,Clearing Operations,WC10010,Active,2025-04-23,,,,CC-CLO-20,Madrid
+WC10305,Karin Gallardo,Clearing Operations,WC10010,Active,2012-07-19,,,,CC-CLO-10,Madrid
+WC10307,Felix Garrido,Clearing Operations,WC10010,Active,2020-05-14,,,,CC-CLO-10,Madrid
+WC10308,Isaac Quintana,Clearing Operations,WC10010,Active,2015-10-07,,,,CC-CLO-20,Madrid
+WC10310,Sergio Peters,Clearing Operations,WC10010,Active,2018-05-19,,,,CC-CLO-10,Madrid
+WC10313,Amir Lozano,Clearing Operations,WC10010,Active,2021-05-09,,,,CC-CLO-30,Madrid
+WC10316,David Romero,Clearing Operations,WC10010,Active,2024-05-25,,,,CC-CLO-20,Madrid
+WC10318,Karin Jansen,Clearing Operations,WC10010,Active,2013-11-29,,,,CC-CLO-20,Madrid
+WC10319,Hugo Bauer,Clearing Operations,WC10010,Active,2015-04-17,,,,CC-CLO-20,Madrid
+WC10321,Ines Vidal,Clearing Operations,WC10010,Active,2016-03-26,,,,CC-CLO-30,Madrid
+WC10323,Erik Fuentes,Clearing Operations,WC10010,Active,2024-09-15,,,,CC-CLO-30,Madrid
+WC10325,Pedro Garrido,Clearing Operations,WC10010,Active,2024-09-08,,,,CC-CLO-10,Madrid
+WC10326,Jakob Arnaiz,Clearing Operations,WC10010,Active,2014-07-30,,,,CC-CLO-30,Madrid
+WC10329,Jakob Escobar,Clearing Operations,WC10010,Active,2022-03-17,,,,CC-CLO-30,Madrid
+WC10330,Lucia Duarte,Clearing Operations,WC10010,Active,2024-10-28,,,,CC-CLO-10,Madrid
+WC10332,Bruno Escobar,Clearing Operations,WC10010,Active,2020-11-22,,,,CC-CLO-10,Madrid
+WC10335,Raquel Ortega,Clearing Operations,WC10010,Active,2019-08-22,,,,CC-CLO-10,Madrid
+WC10338,Cristina Lorenzo,Clearing Operations,WC10010,Active,2019-07-06,,,,CC-CLO-20,Madrid
+WC10340,Carlos Mendez,Clearing Operations,WC10010,Active,2019-03-16,,,,CC-CLO-30,Madrid
+WC10343,Diego Cortes,Clearing Operations,WC10010,Active,2019-12-14,,,,CC-CLO-10,Madrid
+WC10344,Cristina Iglesias,Clearing Operations,WC10010,Active,2017-11-29,,,,CC-CLO-30,Madrid
+WC10346,Oliver Duarte,Clearing Operations,WC10010,Active,2020-10-14,,,,CC-CLO-10,Madrid
+WC10348,Elena Hartmann,Clearing Operations,WC10010,Active,2014-09-18,,,,CC-CLO-20,Madrid
+WC10350,Ivan Rubio,Clearing Operations,WC10010,Active,2016-07-05,,,,CC-CLO-10,Madrid
+WC10353,Jakob Garrido,Clearing Operations,WC10010,Active,2013-01-30,,,,CC-CLO-20,Madrid
+WC10355,Teresa Garrido,Clearing Operations,WC10010,Active,2016-12-04,,,,CC-CLO-10,Madrid
+WC10358,Erik Vogel,Clearing Operations,WC10010,Active,2013-10-18,,,,CC-CLO-30,Madrid
+WC10359,Olga Fuentes,Clearing Operations,WC10010,Active,2020-05-12,,,,CC-CLO-10,Madrid
+WC10361,Amir Brandt,Clearing Operations,WC10010,Active,2023-08-15,,,,CC-CLO-20,Madrid
+WC10362,Clara Garrido,Clearing Operations,WC10010,Active,2020-10-07,,,,CC-CLO-20,Madrid
+WC10363,Mateo Dietrich,Clearing Operations,WC10010,Active,2014-06-26,,,,CC-CLO-30,Madrid
+WC10365,Rosa Fischer,Clearing Operations,WC10010,Active,2017-10-02,,,,CC-CLO-30,Madrid
+WC10367,Karin Suarez,Clearing Operations,WC10010,Active,2015-02-17,,,,CC-CLO-30,Madrid
+WC10370,Olga Abad,Clearing Operations,WC10010,Active,2025-03-18,,,,CC-CLO-30,Madrid
+WC10372,Adrian Hartmann,Clearing Operations,WC10010,Active,2014-02-04,,,,CC-CLO-30,Madrid
+WC10375,Hannah Pardo,Clearing Operations,WC10010,Active,2020-09-24,,,,CC-CLO-30,Madrid
+WC10377,Gabriel Rojas,Clearing Operations,WC10010,Active,2018-08-24,,,,CC-CLO-20,Madrid
+WC10379,Marta Blanco,Clearing Operations,WC10010,Active,2012-12-03,,,,CC-CLO-20,Madrid
+WC10382,Lucas Molina,Clearing Operations,WC10010,Active,2020-01-10,,,,CC-CLO-10,Madrid
+WC10383,Karin Zamora,Clearing Operations,WC10010,Active,2025-01-07,,,,CC-CLO-20,Madrid
+WC10385,Leo Dietrich,Clearing Operations,WC10010,Active,2019-03-05,,,,CC-CLO-10,Madrid
+WC10386,Nora Rubio,Clearing Operations,WC10010,Active,2022-07-18,,,,CC-CLO-20,Madrid
+WC10388,Nicolas Marin,Clearing Operations,WC10010,Active,2021-01-31,,,,CC-CLO-30,Madrid
+WC10391,Yara Navarro,Clearing Operations,WC10010,Active,2021-05-15,,,,CC-CLO-10,Madrid
+WC10393,Fiona Lorenzo,Clearing Operations,WC10010,Active,2020-06-13,,,,CC-CLO-20,Madrid
+WC10396,Rosa Winter,Clearing Operations,WC10010,Active,2021-10-07,,,,CC-CLO-30,Madrid
+WC10397,Martin Iglesias,Clearing Operations,WC10010,Active,2012-06-21,,,,CC-CLO-20,Madrid
+WC10399,Gabriel Yanez,Clearing Operations,WC10010,Active,2019-11-18,,,,CC-CLO-20,Madrid
+WC10402,Ruben Zimmer,Clearing Operations,WC10010,Active,2013-09-26,,,,CC-CLO-30,Madrid
+WC10403,Alice Brandt,Clearing Operations,WC10010,Active,2025-05-04,,,,CC-CLO-30,Madrid
+WC10405,Pablo Herrera,Clearing Operations,WC10010,Active,2022-02-20,,,,CC-CLO-20,Madrid
+WC10408,Amir Weber,Clearing Operations,WC10010,Active,2013-11-08,,,,CC-CLO-20,Madrid
+WC10409,Diego Benitez,Clearing Operations,WC10010,Active,2014-10-26,,,,CC-CLO-20,Madrid
+WC10412,Gabriel Klein,Clearing Operations,WC10010,Active,2014-08-05,,,,CC-CLO-30,Madrid
+WC10414,Carlos Lorenzo,Clearing Operations,WC10010,Active,2022-08-03,,,,CC-CLO-10,Madrid
+WC10417,Emma Zamora,Clearing Operations,WC10010,Active,2018-02-09,,,,CC-CLO-20,Madrid
+WC10419,Sergio Rubio,Clearing Operations,WC10010,Active,2023-06-06,,,,CC-CLO-20,Madrid
+WC10422,Arturo Lozano,Clearing Operations,WC10010,Active,2015-10-21,,,,CC-CLO-10,Madrid
+WC10424,Emma Cano,Clearing Operations,WC10010,Active,2016-12-08,,,,CC-CLO-30,Madrid
+WC10425,Leo Lozano,Clearing Operations,WC10010,Active,2017-06-21,,,,CC-CLO-30,Madrid
+WC10426,Ruben Weber,Clearing Operations,WC10010,Active,2023-09-08,,,,CC-CLO-20,Madrid
+WC10429,Martin Abad,Clearing Operations,WC10010,Active,2019-05-01,,,,CC-CLO-30,Madrid
+WC10430,Victor Klein,Clearing Operations,WC10010,Active,2016-03-14,,,,CC-CLO-10,Madrid
+WC10432,Raquel Delgado,Clearing Operations,WC10010,Active,2025-03-14,,,,CC-CLO-10,Madrid
+WC10433,Nora Lozano,Clearing Operations,WC10010,Active,2022-12-29,,,,CC-CLO-30,Madrid
+WC10436,Ana Duarte,Clearing Operations,WC10010,Active,2022-04-05,,,,CC-CLO-10,Madrid
+WC10439,Sergio Duarte,Clearing Operations,WC10010,Active,2012-09-16,,,,CC-CLO-10,Madrid
+WC10440,David Herrera,Clearing Operations,WC10010,Active,2021-08-17,,,,CC-CLO-30,Madrid
+WC10443,Javier Klein,Clearing Operations,WC10010,Active,2023-07-19,,,,CC-CLO-20,Madrid
+WC10445,Yara Winter,Clearing Operations,WC10010,Active,2022-08-12,,,,CC-CLO-20,Madrid
+WC10447,Beatriz Klein,Clearing Operations,WC10010,Active,2015-12-17,,,,CC-CLO-10,Madrid
+WC10450,Clara Sanz,Clearing Operations,WC10010,Active,2014-06-04,,,,CC-CLO-10,Madrid
+WC10451,Gabriel Marin,Clearing Operations,WC10010,Active,2014-04-13,,,,CC-CLO-10,Madrid
+WC10453,Julia Mendez,Clearing Operations,WC10010,Active,2018-10-03,,,,CC-CLO-20,Madrid
+WC10456,Maria Reyes,Clearing Operations,WC10010,Active,2015-09-04,,,,CC-CLO-20,Madrid
+WC10459,Camille Jansen,Clearing Operations,WC10010,Active,2012-08-30,,,,CC-CLO-30,Madrid
+WC10461,Arturo Nieto,Clearing Operations,WC10010,Active,2019-06-25,,,,CC-CLO-30,Madrid
+WC10462,Laura Klein,Clearing Operations,WC10010,Active,2016-02-07,,,,CC-CLO-30,Madrid
+WC10463,Sergio Escobar,Clearing Operations,WC10010,Active,2015-02-26,,,,CC-CLO-20,Madrid
+WC10466,Sofia Urquijo,Clearing Operations,WC10010,Active,2014-02-19,,,,CC-CLO-20,Madrid
+WC10469,Oliver Fuentes,Clearing Operations,WC10010,Active,2015-12-01,,,,CC-CLO-10,Madrid
+WC10472,Fiona Cano,Clearing Operations,WC10010,Active,2014-01-29,,,,CC-CLO-20,Madrid
+WC10473,Grace Pascual,Clearing Operations,WC10010,Active,2013-02-07,,,,CC-CLO-30,Madrid
+WC10476,Diego Duarte,Clearing Operations,WC10010,Active,2021-09-21,,,,CC-CLO-10,Madrid
+WC10479,Maria Ortega,Clearing Operations,WC10010,Active,2024-02-16,,,,CC-CLO-10,Madrid
+WC10480,Diego Schmidt,Clearing Operations,WC10010,Active,2014-07-19,,,,CC-CLO-30,Madrid
+WC10482,Jakob Dietrich,Clearing Operations,WC10010,Active,2022-05-19,,,,CC-CLO-10,Madrid
+WC10485,Julia Ferrer,Clearing Operations,WC10010,Active,2021-08-23,,,,CC-CLO-30,Madrid
+WC10487,Alice Hartmann,Clearing Operations,WC10010,Active,2021-02-07,,,,CC-CLO-30,Madrid
+WC10488,Beatriz Zamora,Risk Management,WC10013,Active,2021-01-01,,,,CC-RSK-30,London
+WC10489,Oliver Pascual,Risk Management,WC10013,Active,2021-06-18,,,,CC-RSK-30,London
+WC10491,Ines Rojas,Risk Management,WC10013,Active,2017-12-12,,,,CC-RSK-10,London
+WC10493,Javier Fuentes,Risk Management,WC10013,Active,2012-07-01,,,,CC-RSK-30,London
+WC10495,Eva Reyes,Risk Management,WC10013,Active,2021-04-05,,,,CC-RSK-20,London
+WC10496,Felix Marin,Risk Management,WC10013,Active,2018-12-02,,,,CC-RSK-30,London
+WC10497,Nicolas Zimmer,Risk Management,WC10013,Active,2019-06-08,,,,CC-RSK-10,London
+WC10499,Diego Serrano,Risk Management,WC10013,Active,2013-02-25,,,,CC-RSK-20,London
+WC10500,Victor Marin,Risk Management,WC10013,Active,2016-08-19,,,,CC-RSK-10,London
+WC10503,Adrian Navarro,Risk Management,WC10013,Terminated,2012-10-31,2026-09-25,,,CC-RSK-10,London
+WC10505,Fiona Ferrer,Risk Management,WC10013,Active,2014-05-17,,,,CC-RSK-30,London
+WC10507,Ivan Lorenzo,Risk Management,WC10013,Active,2012-05-02,,,,CC-RSK-20,London
+WC10509,Nicolas Navarro,Risk Management,WC10013,Active,2014-02-15,,,,CC-RSK-10,London
+WC10510,Maria Klein,Risk Management,WC10013,Terminated,2015-09-10,2026-08-13,,,CC-RSK-30,London
+WC10511,Tobias Gallardo,Risk Management,WC10013,Active,2021-04-21,,,,CC-RSK-30,London
+WC10514,Hugo Peters,Risk Management,WC10013,Active,2019-07-14,,,,CC-RSK-20,London
+WC10516,Julia Garrido,Risk Management,WC10013,Active,2014-04-09,,,,CC-RSK-30,London
+WC10518,Gabriel Pardo,Risk Management,WC10013,Active,2013-06-10,,,,CC-RSK-20,London
+WC10521,Eva Herrera,Risk Management,WC10013,Active,2012-05-05,,,,CC-RSK-20,London
+WC10522,Eva Soler,Risk Management,WC10013,Active,2016-06-07,,,,CC-RSK-10,London
+WC10524,Maria Lorenzo,Risk Management,WC10013,Active,2023-06-17,,,,CC-RSK-20,London
+WC10527,Zoe Cortes,Risk Management,WC10013,Active,2022-05-11,,,,CC-RSK-10,London
+WC10529,Carlos Ramos,Risk Management,WC10013,Active,2013-05-06,,,,CC-RSK-30,London
+WC10530,Andrea Keane,Risk Management,WC10013,Active,2026-09-08,,,,CC-RSK-30,London
+WC10532,Erik Delgado,Risk Management,WC10013,Active,2018-12-15,,,,CC-RSK-20,London
+WC10535,Martin Vogel,Risk Management,WC10013,Active,2019-04-25,,,,CC-RSK-20,London
+WC10537,Nora Ferrer,Risk Management,WC10013,Active,2020-06-03,,,,CC-RSK-20,London
+WC10539,Erik Molina,Risk Management,WC10013,Active,2021-12-01,,,,CC-RSK-20,London
+WC10542,Arturo Castro,Risk Management,WC10013,Active,2017-01-26,,,,CC-RSK-10,London
+WC10543,Sofia Cano,Risk Management,WC10013,Active,2015-04-04,,,,CC-RSK-30,London
+WC10544,Pablo Hartmann,Risk Management,WC10013,Active,2018-01-13,,,,CC-RSK-10,London
+WC10545,Maria Vidal,Risk Management,WC10013,Active,2025-04-25,,,,CC-RSK-30,London
+WC10547,Lucia Gallardo,Risk Management,WC10013,Terminated,2019-03-15,2026-09-29,,,CC-RSK-30,London
+WC10549,Zoe Fischer,Risk Management,WC10013,Active,2024-04-03,,,,CC-RSK-10,London
+WC10551,Pedro Madsen,Risk Management,WC10013,Active,2013-11-16,,,,CC-RSK-20,London
+WC10553,Jakob Vega,Risk Management,WC10013,Active,2018-06-19,,,,CC-RSK-20,London
+WC10556,Elena Garrido,Risk Management,WC10013,Active,2016-09-05,,,,CC-RSK-30,London
+WC10557,Erik Suarez,Risk Management,WC10013,Active,2013-12-17,,,,CC-RSK-20,London
+WC10559,Amir Molina,Risk Management,WC10013,Active,2020-08-12,,,,CC-RSK-30,London
+WC10561,Sergio Fischer,Risk Management,WC10013,Active,2018-03-25,,,,CC-RSK-20,London
+WC10563,Gabriel Aldana,Risk Management,WC10013,Active,2014-05-14,,,,CC-RSK-20,London
+WC10564,Carlos Gallardo,Legal,WC10029,Active,2021-05-26,,2026-07-15,Risk Management,CC-LEG-10,London
+WC10565,Adrian Garrido,Risk Management,WC10013,Active,2014-05-05,,,,CC-RSK-10,London
+WC10566,Eva Mendez,Risk Management,WC10013,Active,2025-04-15,,,,CC-RSK-30,London
+WC10567,Nora Yanez,Risk Management,WC10013,Active,2015-10-29,,,,CC-RSK-10,London
+WC10569,Yara Cortes,Risk Management,WC10013,Terminated,2022-05-18,2026-07-20,,,CC-RSK-30,London
+WC10571,Ana Delgado,Risk Management,WC10013,Active,2018-04-03,,,,CC-RSK-10,London
+WC10573,Clara Keane,Risk Management,WC10013,Active,2017-11-25,,,,CC-RSK-10,London
+WC10574,Andrea Carvalho,Risk Management,WC10013,Active,2016-05-15,,,,CC-RSK-10,London
+WC10575,Pedro Romero,Risk Management,WC10013,Active,2012-10-05,,,,CC-RSK-30,London
+WC10578,Zoe Duarte,Risk Management,WC10013,Active,2019-08-16,,,,CC-RSK-20,London
+WC10579,Beatriz Abad,Risk Management,WC10013,Active,2023-12-15,,,,CC-RSK-30,London
+WC10582,Marta Arnaiz,Information Security,WC10023,Active,2013-06-21,,2026-09-03,Risk Management,CC-ISC-10,Madrid
+WC10585,Clara Pascual,Risk Management,WC10013,Active,2017-05-05,,,,CC-RSK-30,London
+WC10587,Carlos Abad,Risk Management,WC10013,Active,2022-01-19,,,,CC-RSK-30,London
+WC10588,Raquel Navarro,Settlement,WC10016,Active,2012-12-26,,,,CC-STL-20,Madrid
+WC10590,Camille Serrano,Settlement,WC10016,Active,2012-02-12,,,,CC-STL-30,Madrid
+WC10593,Sergio Cortes,Settlement,WC10016,Active,2019-10-26,,,,CC-STL-30,Madrid
+WC10594,Rosa Zamora,Settlement,WC10016,Active,2018-01-25,,,,CC-STL-30,Madrid
+WC10595,Maria Soler,Settlement,WC10016,Active,2020-02-20,,,,CC-STL-20,Madrid
+WC10596,Teresa Cano,Settlement,WC10016,Active,2017-02-18,,,,CC-STL-30,Madrid
+WC10599,Leo Fuentes,Settlement,WC10016,Active,2012-06-08,,,,CC-STL-10,Madrid
+WC10600,Hugo Pascual,Settlement,WC10016,Active,2021-10-07,,,,CC-STL-30,Madrid
+WC10603,Tobias Delgado,Settlement,WC10016,Active,2023-05-04,,,,CC-STL-10,Madrid
+WC10604,Grace Molina,Settlement,WC10016,Active,2021-01-18,,,,CC-STL-10,Madrid
+WC10607,Arturo Vega,Settlement,WC10016,Active,2013-03-13,,,,CC-STL-10,Madrid
+WC10610,Mia Duarte,Settlement,WC10016,Active,2019-10-15,,,,CC-STL-20,Madrid
+WC10613,Ines Fischer,Settlement,WC10016,Active,2014-03-09,,,,CC-STL-30,Madrid
+WC10616,Tobias Ferrer,Settlement,WC10016,Active,2018-10-05,,,,CC-STL-10,Madrid
+WC10617,Cristina Bauer,Settlement,WC10016,Active,2019-08-02,,,,CC-STL-20,Madrid
+WC10620,Erik Zimmer,Settlement,WC10016,Active,2013-09-06,,,,CC-STL-10,Madrid
+WC10622,Nora Cortes,Settlement,WC10016,Active,2025-03-21,,,,CC-STL-10,Madrid
+WC10623,Laura Marin,Settlement,WC10016,Active,2024-12-04,,,,CC-STL-30,Madrid
+WC10624,Grace Duarte,Settlement,WC10016,Active,2026-09-22,,,,CC-STL-30,Madrid
+WC10626,Grace Vega,Settlement,WC10016,Active,2017-11-16,,,,CC-STL-20,Madrid
+WC10628,Carlos Carvalho,Settlement,WC10016,Active,2025-02-06,,,,CC-STL-20,Madrid
+WC10630,Cristina Duarte,Settlement,WC10016,Active,2022-10-22,,,,CC-STL-30,Madrid
+WC10631,Carlos Cano,Settlement,WC10016,Active,2021-02-03,,,,CC-STL-20,Madrid
+WC10632,Martin Reyes,Settlement,WC10016,Active,2019-03-29,,,,CC-STL-20,Madrid
+WC10634,Alba Brandt,Settlement,WC10016,Active,2021-11-13,,,,CC-STL-10,Madrid
+WC10635,Ana Urquijo,Settlement,WC10016,Active,2024-08-07,,,,CC-STL-20,Madrid
+WC10638,Javier Ortega,Settlement,WC10016,Active,2016-02-23,,,,CC-STL-10,Madrid
+WC10639,Camille Escobar,Settlement,WC10016,Active,2023-04-11,,,,CC-STL-30,Madrid
+WC10641,Sergio Navarro,Settlement,WC10016,Active,2012-08-31,,,,CC-STL-10,Madrid
+WC10642,Julia Hartmann,Settlement,WC10016,Active,2020-03-05,,,,CC-STL-10,Madrid
+WC10645,Ruben Delgado,Settlement,WC10016,Active,2021-10-26,,,,CC-STL-20,Madrid
+WC10646,Alice Weber,Settlement,WC10016,Active,2022-05-13,,,,CC-STL-30,Madrid
+WC10648,Sara Peters,Settlement,WC10016,Active,2020-06-08,,,,CC-STL-10,Madrid
+WC10650,Hannah Ferrer,Settlement,WC10016,Active,2019-09-11,,,,CC-STL-20,Madrid
+WC10652,Martin Fischer,Settlement,WC10016,Terminated,2024-04-06,2026-07-11,,,CC-STL-30,Madrid
+WC10654,Arturo Mendez,Settlement,WC10016,Active,2014-12-23,,,,CC-STL-20,Madrid
+WC10655,Marta Molina,Settlement,WC10016,Active,2012-05-09,,,,CC-STL-20,Madrid
+WC10658,Ruben Eriksen,Settlement,WC10016,Active,2024-07-01,,,,CC-STL-20,Madrid
+WC10660,Alba Abad,Settlement,WC10016,Active,2017-06-02,,,,CC-STL-30,Madrid
+WC10661,Hannah Weber,Settlement,WC10016,Active,2012-01-20,,,,CC-STL-10,Madrid
+WC10663,Elena Urquijo,Settlement,WC10016,Active,2023-10-21,,,,CC-STL-10,Madrid
+WC10666,Nicolas Herrera,Settlement,WC10016,Active,2017-11-07,,,,CC-STL-10,Madrid
+WC10668,Eva Benitez,Settlement,WC10016,Active,2014-12-02,,,,CC-STL-30,Madrid
+WC10671,Olga Rubio,Settlement,WC10016,Active,2021-07-15,,,,CC-STL-20,Madrid
+WC10674,Raquel Vega,Settlement,WC10016,Active,2020-06-11,,,,CC-STL-20,Madrid
+WC10676,Fiona Klein,Settlement,WC10016,Active,2012-05-13,,,,CC-STL-20,Madrid
+WC10678,Emma Lorenzo,Settlement,WC10016,Active,2018-03-21,,,,CC-STL-10,Madrid
+WC10680,Ivan Fuentes,Settlement,WC10016,Active,2019-09-29,,,,CC-STL-10,Madrid
+WC10683,Maria Marin,Settlement,WC10016,Active,2013-02-19,,,,CC-STL-20,Madrid
+WC10684,Sara Gallardo,Settlement,WC10016,Active,2015-01-17,,,,CC-STL-20,Madrid
+WC10685,Chloe Fuentes,Settlement,WC10016,Active,2017-05-20,,,,CC-STL-10,Madrid
+WC10687,Alba Reyes,Treasury,WC10018,Terminated,2023-06-26,2026-06-26,,,CC-TRS-30,Frankfurt
+WC10690,Raquel Winter,Treasury,WC10018,Active,2024-07-30,,,,CC-TRS-10,Frankfurt
+WC10693,Pedro Aldana,Treasury,WC10018,Active,2013-04-01,,,,CC-TRS-20,Frankfurt
+WC10694,Cristina Delgado,Treasury,WC10018,Active,2018-03-09,,,,CC-TRS-20,Frankfurt
+WC10697,Bruno Brandt,Treasury,WC10018,Active,2024-04-10,,,,CC-TRS-30,Frankfurt
+WC10700,Nicolas Duarte,Treasury,WC10018,Active,2024-03-20,,,,CC-TRS-30,Frankfurt
+WC10701,Elena Jansen,Treasury,WC10018,Active,2015-06-26,,,,CC-TRS-10,Frankfurt
+WC10704,Chloe Jansen,Treasury,WC10018,Active,2021-05-05,,,,CC-TRS-10,Frankfurt
+WC10705,Arturo Serrano,Treasury,WC10018,Active,2023-01-04,,,,CC-TRS-30,Frankfurt
+WC10706,Beatriz Brandt,Treasury,WC10018,Terminated,2014-04-22,2026-09-06,,,CC-TRS-20,Frankfurt
+WC10709,Ines Garrido,Treasury,WC10018,Active,2016-02-27,,,,CC-TRS-30,Frankfurt
+WC10712,Felix Iglesias,Treasury,WC10018,Terminated,2023-07-14,2026-06-25,,,CC-TRS-10,Frankfurt
+WC10713,Victor Weber,Treasury,WC10018,Active,2014-03-07,,,,CC-TRS-10,Frankfurt
+WC10715,Ines Escobar,Treasury,WC10018,Active,2023-07-11,,,,CC-TRS-30,Frankfurt
+WC10716,Victor Quintana,Treasury,WC10018,Active,2016-08-07,,,,CC-TRS-10,Frankfurt
+WC10719,Gabriel Serrano,Treasury,WC10018,Active,2012-02-06,,,,CC-TRS-20,Frankfurt
+WC10722,Ana Romero,Treasury,WC10018,Active,2021-04-02,,,,CC-TRS-10,Frankfurt
+WC10724,Martin Suarez,Treasury,WC10018,Active,2017-11-11,,,,CC-TRS-30,Frankfurt
+WC10726,Teresa Madsen,Treasury,WC10018,Active,2013-05-16,,,,CC-TRS-10,Frankfurt
+WC10729,Lucas Aldana,Treasury,WC10018,Active,2017-09-11,,,,CC-TRS-10,Frankfurt
+WC10732,Camille Garrido,Treasury,WC10018,Active,2017-10-26,,,,CC-TRS-20,Frankfurt
+WC10734,Ines Torres,Treasury,WC10018,Terminated,2015-07-10,2026-09-14,,,CC-TRS-30,Frankfurt
+WC10736,Carlos Soler,Treasury,WC10018,Active,2022-11-05,,,,CC-TRS-10,Frankfurt
+WC10738,Pedro Benitez,Treasury,WC10018,Active,2014-11-12,,,,CC-TRS-20,Frankfurt
+WC10741,Carlos Rojas,Finance,WC10019,Active,2026-09-15,,,,CC-FIN-10,Madrid
+WC10744,Marta Madsen,Finance,WC10019,Active,2015-08-06,,,,CC-FIN-10,Madrid
+WC10745,Isaac Ferrer,Finance,WC10019,Active,2012-03-12,,,,CC-FIN-30,Madrid
+WC10747,Alice Vega,Finance,WC10019,Active,2015-03-17,,,,CC-FIN-30,Madrid
+WC10748,Teresa Vega,Finance,WC10019,Active,2013-09-19,,,,CC-FIN-30,Madrid
+WC10751,Ana Blanco,Finance,WC10019,Active,2023-06-08,,,,CC-FIN-30,Madrid
+WC10754,Grace Keane,Finance,WC10019,Active,2025-07-17,,,,CC-FIN-10,Madrid
+WC10756,Pedro Suarez,Finance,WC10019,Active,2014-08-28,,,,CC-FIN-10,Madrid
+WC10758,Alice Peters,Finance,WC10019,Active,2025-05-22,,,,CC-FIN-10,Madrid
+WC10760,Alba Pascual,Finance,WC10019,Active,2020-12-27,,,,CC-FIN-30,Madrid
+WC10761,Ruben Rojas,Finance,WC10019,Active,2018-03-12,,,,CC-FIN-20,Madrid
+WC10764,Ana Carvalho,Finance,WC10019,Active,2023-12-30,,,,CC-FIN-10,Madrid
+WC10765,Jakob Eriksen,Finance,WC10019,Active,2015-06-17,,,,CC-FIN-30,Madrid
+WC10768,Martin Nieto,Finance,WC10019,Terminated,2024-04-26,2026-07-29,,,CC-FIN-30,Madrid
+WC10770,Andrea Reyes,Finance,WC10019,Active,2021-07-05,,,,CC-FIN-10,Madrid
+WC10772,Bruno Fischer,Finance,WC10019,Active,2019-01-23,,,,CC-FIN-10,Madrid
+WC10774,Nora Eriksen,Finance,WC10019,Active,2015-04-10,,,,CC-FIN-20,Madrid
+WC10776,Carlos Lozano,Finance,WC10019,Active,2025-02-22,,,,CC-FIN-20,Madrid
+WC10779,Isaac Carvalho,Finance,WC10019,Active,2021-06-07,,,,CC-FIN-20,Madrid
+WC10781,Diego Ferrer,Finance,WC10019,Active,2018-01-18,,,,CC-FIN-20,Madrid
+WC10782,Hugo Aldana,Finance,WC10019,Active,2012-12-27,,,,CC-FIN-30,Madrid
+WC10785,Ruben Suarez,Finance,WC10019,Active,2018-09-28,,,,CC-FIN-20,Madrid
+WC10787,Lucas Quintana,Finance,WC10019,Active,2016-01-27,,,,CC-FIN-30,Madrid
+WC10790,Arturo Quintana,Finance,WC10019,Active,2017-03-27,,,,CC-FIN-20,Madrid
+WC10793,Fiona Duarte,Finance,WC10019,Active,2024-03-12,,,,CC-FIN-20,Madrid
+WC10796,Andrea Weber,Finance,WC10019,Active,2020-11-06,,,,CC-FIN-30,Madrid
+WC10798,Martin Navarro,Finance,WC10019,Active,2014-11-20,,,,CC-FIN-30,Madrid
+WC10801,Hannah Zamora,Finance,WC10019,Active,2017-07-16,,,,CC-FIN-20,Madrid
+WC10802,Raquel Jansen,Finance,WC10019,Active,2024-03-09,,,,CC-FIN-10,Madrid
+WC10804,Julia Molina,Finance,WC10019,Active,2016-07-09,,,,CC-FIN-10,Madrid
+WC10807,Adrian Madsen,Finance,WC10019,Active,2020-03-11,,,,CC-FIN-20,Madrid
+WC10809,Eva Delgado,Finance,WC10019,Active,2017-02-28,,,,CC-FIN-10,Madrid
+WC10812,Oliver Arnaiz,Finance,WC10019,Active,2022-01-22,,,,CC-FIN-30,Madrid
+WC10814,Grace Romero,Technology,WC10021,Active,2013-02-03,,,,CC-TEC-20,Madrid
+WC10815,Emma Castro,Technology,WC10021,Active,2018-05-19,,,,CC-TEC-20,Madrid
+WC10818,Ines Herrera,Technology,WC10021,Active,2020-06-11,,,,CC-TEC-30,Madrid
+WC10821,Erik Jansen,Technology,WC10021,Active,2019-05-13,,,,CC-TEC-20,Madrid
+WC10822,Ines Gallardo,Technology,WC10021,Active,2019-11-03,,,,CC-TEC-30,Madrid
+WC10823,Leo Garrido,Technology,WC10021,Active,2016-07-27,,,,CC-TEC-10,Madrid
+WC10824,Sofia Cortes,Technology,WC10021,Active,2023-01-03,,,,CC-TEC-10,Madrid
+WC10827,Erik Cortes,Technology,WC10021,Active,2013-03-11,,,,CC-TEC-10,Madrid
+WC10828,Cristina Nieto,Technology,WC10021,Active,2014-08-20,,,,CC-TEC-30,Madrid
+WC10831,Tobias Yanez,Technology,WC10021,Active,2017-09-08,,,,CC-TEC-30,Madrid
+WC10834,Bruno Soler,Technology,WC10021,Active,2024-04-10,,,,CC-TEC-30,Madrid
+WC10835,Sergio Iglesias,Technology,WC10021,Active,2018-11-24,,,,CC-TEC-20,Madrid
+WC10836,Patricia Suarez,Technology,WC10021,Active,2020-03-25,,,,CC-TEC-10,Madrid
+WC10839,Clara Fischer,Technology,WC10021,Active,2024-10-09,,,,CC-TEC-10,Madrid
+WC10842,Hugo Winter,Technology,WC10021,Active,2021-10-05,,,,CC-TEC-30,Madrid
+WC10844,Emma Schmidt,Technology,WC10021,Active,2019-02-22,,,,CC-TEC-10,Madrid
+WC10845,Clara Jansen,Technology,WC10021,Active,2025-01-08,,,,CC-TEC-20,Madrid
+WC10847,Yara Nieto,Technology,WC10021,Active,2012-05-28,,,,CC-TEC-20,Madrid
+WC10848,Ana Torres,Technology,WC10021,Active,2014-11-26,,,,CC-TEC-10,Madrid
+WC10849,Carlos Dietrich,Technology,WC10021,Active,2018-08-10,,,,CC-TEC-20,Madrid
+WC10852,Pedro Duarte,Technology,WC10021,Active,2018-04-28,,,,CC-TEC-30,Madrid
+WC10853,Diego Pascual,Technology,WC10021,Active,2012-11-15,,,,CC-TEC-20,Madrid
+WC10856,Cristina Aldana,Technology,WC10021,Active,2018-06-04,,,,CC-TEC-30,Madrid
+WC10858,Pablo Klein,Technology,WC10021,Active,2013-01-09,,,,CC-TEC-20,Madrid
+WC10861,Isaac Benitez,Technology,WC10021,Active,2024-01-12,,,,CC-TEC-20,Madrid
+WC10862,Marta Peters,Technology,WC10021,Active,2021-06-28,,,,CC-TEC-30,Madrid
+WC10863,Maria Torres,Technology,WC10021,Active,2025-08-23,,,,CC-TEC-20,Madrid
+WC10866,Ruben Garrido,Technology,WC10021,Active,2026-09-15,,,,CC-TEC-10,Madrid
+WC10869,Beatriz Schmidt,Technology,WC10021,Active,2016-09-19,,,,CC-TEC-20,Madrid
+WC10872,Nicolas Abad,Technology,WC10021,Active,2015-02-05,,,,CC-TEC-30,Madrid
+WC10873,Bruno Duarte,Technology,WC10021,Active,2016-05-10,,,,CC-TEC-30,Madrid
+WC10875,Rosa Abad,Technology,WC10021,Active,2024-03-13,,,,CC-TEC-20,Madrid
+WC10876,Amir Blanco,Technology,WC10021,Active,2017-10-14,,,,CC-TEC-10,Madrid
+WC10877,Oliver Zimmer,Technology,WC10021,Active,2019-04-23,,,,CC-TEC-30,Madrid
+WC10880,Camille Weber,Technology,WC10021,Active,2024-03-23,,,,CC-TEC-20,Madrid
+WC10882,Andrea Jansen,Technology,WC10021,Active,2018-11-16,,,,CC-TEC-10,Madrid
+WC10883,Mia Cano,Technology,WC10021,Active,2012-07-03,,,,CC-TEC-20,Madrid
+WC10884,Adrian Castro,Technology,WC10021,Active,2012-05-20,,,,CC-TEC-30,Madrid
+WC10886,Gabriel Garrido,Technology,WC10021,Active,2018-12-26,,,,CC-TEC-10,Madrid
+WC10888,Elena Dietrich,Technology,WC10021,Active,2015-05-01,,,,CC-TEC-20,Madrid
+WC10891,Isaac Schmidt,Technology,WC10021,Active,2015-01-28,,,,CC-TEC-10,Madrid
+WC10893,Alice Klein,Technology,WC10021,Active,2017-01-13,,,,CC-TEC-10,Madrid
+WC10895,Sara Carvalho,Technology,WC10021,Active,2016-01-25,,,,CC-TEC-10,Madrid
+WC10896,Marta Carvalho,Technology,WC10021,Active,2021-04-17,,,,CC-TEC-30,Madrid
+WC10897,Erik Fischer,Technology,WC10021,Active,2012-07-15,,,,CC-TEC-10,Madrid
+WC10899,Pablo Rojas,Technology,WC10021,Active,2021-12-29,,,,CC-TEC-10,Madrid
+WC10902,Carlos Rubio,Technology,WC10021,Active,2021-10-20,,,,CC-TEC-20,Madrid
+WC10903,Nora Madsen,Technology,WC10021,Active,2016-11-24,,,,CC-TEC-30,Madrid
+WC10904,Diego Gallardo,Technology,WC10021,Active,2024-09-29,,,,CC-TEC-30,Madrid
+WC10906,Olga Mendez,Technology,WC10021,Active,2018-01-01,,,,CC-TEC-20,Madrid
+WC10909,Beatriz Vega,Technology,WC10021,Active,2021-01-12,,,,CC-TEC-10,Madrid
+WC10912,Bruno Dietrich,Technology,WC10021,Active,2016-07-26,,,,CC-TEC-20,Madrid
+WC10914,Carlos Bauer,Technology,WC10021,Active,2014-08-08,,,,CC-TEC-20,Madrid
+WC10917,Elena Blanco,Technology,WC10021,Active,2022-09-25,,,,CC-TEC-20,Madrid
+WC10919,Beatriz Eriksen,Technology,WC10021,Active,2015-02-26,,,,CC-TEC-10,Madrid
+WC10920,Zoe Carvalho,Technology,WC10021,Active,2012-11-17,,,,CC-TEC-20,Madrid
+WC10921,Ana Dietrich,Technology,WC10021,Active,2016-06-02,,,,CC-TEC-10,Madrid
+WC10922,Mia Vidal,Technology,WC10021,Active,2014-10-30,,,,CC-TEC-20,Madrid
+WC10923,Andrea Navarro,Technology,WC10021,Active,2015-01-28,,,,CC-TEC-30,Madrid
+WC10924,Clara Lozano,Technology,WC10021,Active,2019-06-14,,,,CC-TEC-10,Madrid
+WC10925,Sofia Winter,Technology,WC10021,Active,2024-06-22,,,,CC-TEC-30,Madrid
+WC10926,Isaac Pardo,Technology,WC10021,Active,2019-10-16,,,,CC-TEC-30,Madrid
+WC10927,Nicolas Eriksen,Technology,WC10021,Active,2020-06-18,,,,CC-TEC-10,Madrid
+WC10928,Adrian Cano,Technology,WC10021,Active,2018-01-08,,,,CC-TEC-20,Madrid
+WC10930,Karin Cortes,Client Services,WC10031,Active,2015-11-12,,2026-07-11,Technology,CC-CLS-10,Madrid
+WC10931,Adrian Eriksen,Technology,WC10021,Active,2013-02-09,,,,CC-TEC-20,Madrid
+WC10934,Maria Cano,Technology,WC10021,Terminated,2013-07-18,2026-08-20,,,CC-TEC-20,Madrid
+WC10936,Felix Brandt,Technology,WC10021,Active,2012-10-27,,,,CC-TEC-30,Madrid
+WC10937,Sara Madsen,Technology,WC10021,Active,2024-12-14,,,,CC-TEC-30,Madrid
+WC10938,Bruno Delgado,Technology,WC10021,Active,2013-03-18,,,,CC-TEC-30,Madrid
+WC10940,Olga Ortega,Technology,WC10021,Active,2016-01-08,,,,CC-TEC-10,Madrid
+WC10941,Victor Escobar,Technology,WC10021,Active,2017-06-22,,,,CC-TEC-10,Madrid
+WC10944,Andrea Arnaiz,Technology,WC10021,Active,2025-05-23,,,,CC-TEC-20,Madrid
+WC10947,Hannah Romero,Technology,WC10021,Active,2023-08-22,,,,CC-TEC-10,Madrid
+WC10949,Felix Schmidt,Technology,WC10021,Active,2017-06-29,,,,CC-TEC-20,Madrid
+WC10951,Jakob Zimmer,Technology,WC10021,Active,2022-11-19,,,,CC-TEC-10,Madrid
+WC10954,Oliver Marin,Technology,WC10021,Active,2025-04-17,,,,CC-TEC-10,Madrid
+WC10957,Erik Carvalho,Technology,WC10021,Pending hire,2026-10-12,,,,CC-TEC-30,Madrid
+WC10959,Arturo Ramos,Technology,WC10021,Active,2023-03-04,,,,CC-TEC-10,Madrid
+WC10962,Ines Suarez,Technology,WC10021,Active,2015-08-12,,,,CC-TEC-30,Madrid
+WC10963,Isaac Arnaiz,Technology,WC10021,Active,2022-04-22,,,,CC-TEC-20,Madrid
+WC10965,Teresa Marin,Technology,WC10021,Active,2017-04-22,,,,CC-TEC-30,Madrid
+WC10968,Chloe Romero,Technology,WC10021,Active,2019-12-29,,,,CC-TEC-20,Madrid
+WC10969,Sara Dietrich,Technology,WC10021,Active,2015-06-30,,,,CC-TEC-30,Madrid
+WC10972,Jakob Serrano,Technology,WC10021,Terminated,2023-01-16,2026-09-29,,,CC-TEC-20,Madrid
+WC10974,Sara Urquijo,Information Security,WC10023,Active,2013-02-28,,,,CC-ISC-10,Madrid
+WC10975,Nicolas Fuentes,Information Security,WC10023,Active,2014-12-27,,,,CC-ISC-30,Madrid
+WC10977,Patricia Arnaiz,Information Security,WC10023,Active,2012-01-10,,,,CC-ISC-10,Madrid
+WC10979,Ivan Duarte,Information Security,WC10023,Active,2024-03-08,,,,CC-ISC-30,Madrid
+WC10981,Chloe Rubio,Information Security,WC10023,Active,2019-04-02,,,,CC-ISC-20,Madrid
+WC10984,Zoe Dietrich,Information Security,WC10023,Active,2018-08-31,,,,CC-ISC-10,Madrid
+WC10986,Diego Molina,Information Security,WC10023,Active,2025-03-12,,,,CC-ISC-20,Madrid
+WC10987,Teresa Fischer,Information Security,WC10023,Active,2024-02-09,,,,CC-ISC-20,Madrid
+WC10989,Tobias Dietrich,Information Security,WC10023,Active,2015-11-02,,,,CC-ISC-30,Madrid
+WC10990,Zoe Quintana,Information Security,WC10023,Active,2016-03-28,,,,CC-ISC-10,Madrid
+WC10992,Nicolas Sanz,Information Security,WC10023,Active,2020-08-15,,,,CC-ISC-30,Madrid
+WC10995,Diego Jansen,Information Security,WC10023,Active,2017-01-16,,,,CC-ISC-30,Madrid
+WC10997,Ana Benitez,Information Security,WC10023,Active,2024-02-01,,,,CC-ISC-10,Madrid
+WC10998,Rosa Torres,Compliance,WC10026,Active,2021-02-27,,,,CC-CMP-30,London
+WC10999,Sara Lozano,Compliance,WC10026,Active,2019-11-11,,,,CC-CMP-30,London
+WC11002,Elena Soler,Compliance,WC10026,Active,2024-05-05,,,,CC-CMP-20,London
+WC11004,Martin Jansen,Compliance,WC10026,Active,2013-04-05,,,,CC-CMP-10,London
+WC11007,Martin Herrera,Compliance,WC10026,Active,2017-12-25,,,,CC-CMP-10,London
+WC11008,Beatriz Zimmer,Compliance,WC10026,Active,2017-02-09,,,,CC-CMP-30,London
+WC11010,Alice Quintana,Compliance,WC10026,Active,2023-07-07,,,,CC-CMP-20,London
+WC11013,Isaac Lorenzo,Compliance,WC10026,Active,2020-10-05,,,,CC-CMP-20,London
+WC11015,Julia Urquijo,Compliance,WC10026,Active,2020-01-20,,,,CC-CMP-10,London
+WC11018,Javier Bauer,Compliance,WC10026,Active,2018-09-19,,,,CC-CMP-20,London
+WC11019,Chloe Fischer,Compliance,WC10026,Active,2018-07-12,,,,CC-CMP-10,London
+WC11022,Ruben Torres,Compliance,WC10026,Active,2016-05-14,,,,CC-CMP-20,London
+WC11023,Diego Carvalho,Compliance,WC10026,Active,2013-06-21,,,,CC-CMP-10,London
+WC11026,Grace Benitez,Compliance,WC10026,Active,2020-02-28,,,,CC-CMP-10,London
+WC11027,Clara Carvalho,Compliance,WC10026,Active,2019-06-09,,,,CC-CMP-30,London
+WC11028,Sara Keane,Compliance,WC10026,Active,2021-11-22,,,,CC-CMP-20,London
+WC11031,Mia Escobar,Compliance,WC10026,Active,2012-09-09,,,,CC-CMP-30,London
+WC11032,Beatriz Gallardo,Compliance,WC10026,Active,2019-11-23,,,,CC-CMP-20,London
+WC11033,Olga Weber,Compliance,WC10026,Active,2013-12-12,,,,CC-CMP-10,London
+WC11034,Karin Herrera,Human Resources,WC10028,Active,2023-07-31,,,,CC-HRS-10,Madrid
+WC11036,Andrea Castro,Human Resources,WC10028,Active,2014-10-17,,,,CC-HRS-20,Madrid
+WC11038,Zoe Keane,Human Resources,WC10028,Active,2024-02-23,,,,CC-HRS-30,Madrid
+WC11041,Camille Fischer,Human Resources,WC10028,Active,2014-01-14,,,,CC-HRS-30,Madrid
+WC11044,Olga Bauer,Human Resources,WC10028,Active,2014-07-27,,,,CC-HRS-30,Madrid
+WC11045,Marta Ferrer,Human Resources,WC10028,Active,2017-12-08,,,,CC-HRS-30,Madrid
+WC11048,Arturo Cano,Human Resources,WC10028,Active,2018-08-15,,,,CC-HRS-30,Madrid
+WC11051,Lucia Aldana,Human Resources,WC10028,Active,2021-02-19,,,,CC-HRS-30,Madrid
+WC11054,Ruben Vega,Human Resources,WC10028,Active,2023-12-16,,,,CC-HRS-20,Madrid
+WC11057,Javier Cano,Human Resources,WC10028,Active,2020-06-15,,,,CC-HRS-10,Madrid
+WC11060,Patricia Sanz,Human Resources,WC10028,Active,2012-07-07,,,,CC-HRS-20,Madrid
+WC11063,Grace Zamora,Human Resources,WC10028,Active,2021-08-29,,,,CC-HRS-10,Madrid
+WC11066,Ines Reyes,Human Resources,WC10028,Active,2021-04-27,,,,CC-HRS-30,Madrid
+WC11067,Hugo Molina,Human Resources,WC10028,Active,2013-06-24,,,,CC-HRS-10,Madrid
+WC11070,Karin Rojas,Legal,WC10029,Active,2014-03-07,,,,CC-LEG-30,London
+WC11071,Clara Vega,Legal,WC10029,Terminated,2024-06-28,2026-06-01,,,CC-LEG-10,London
+WC11073,Yara Madsen,Legal,WC10029,Active,2025-02-17,,,,CC-LEG-20,London
+WC11075,Javier Benitez,Legal,WC10029,Active,2017-05-19,,,,CC-LEG-20,London
+WC11077,Teresa Iglesias,Legal,WC10029,Active,2012-11-21,,,,CC-LEG-30,London
+WC11080,Mateo Eriksen,Legal,WC10029,Active,2026-09-15,,,,CC-LEG-10,London
+WC11083,Karin Garrido,Legal,WC10029,Active,2026-09-01,,,,CC-LEG-10,London
+WC11084,Martin Castro,Legal,WC10029,Active,2021-10-13,,,,CC-LEG-20,London
+WC11087,Emma Vega,Legal,WC10029,Active,2018-04-05,,,,CC-LEG-20,London
+WC11088,Isaac Serrano,Client Services,WC10031,Active,2020-01-05,,,,CC-CLS-10,Madrid
+WC11090,Sara Benitez,Client Services,WC10031,Active,2016-06-15,,,,CC-CLS-30,Madrid
+WC11093,Chloe Quintana,Client Services,WC10031,Active,2022-08-25,,,,CC-CLS-20,Madrid
+WC11095,Elena Molina,Client Services,WC10031,Active,2017-01-19,,,,CC-CLS-30,Madrid
+WC11097,Carlos Torres,Client Services,WC10031,Active,2024-01-17,,,,CC-CLS-20,Madrid
+WC11098,Ruben Navarro,Client Services,WC10031,Active,2014-08-28,,,,CC-CLS-20,Madrid
+WC11099,Erik Romero,Client Services,WC10031,Active,2014-07-02,,,,CC-CLS-10,Madrid
+WC11102,Alice Jansen,Client Services,WC10031,Active,2018-03-15,,,,CC-CLS-20,Madrid
+WC11105,David Madsen,Client Services,WC10031,Active,2019-03-20,,,,CC-CLS-30,Madrid
+WC11108,Patricia Keane,Client Services,WC10031,Active,2013-07-06,,,,CC-CLS-20,Madrid
+WC11109,Laura Pardo,Client Services,WC10031,Active,2014-04-26,,,,CC-CLS-20,Madrid
+WC11111,Pedro Zamora,Client Services,WC10031,Active,2012-06-25,,,,CC-CLS-20,Madrid
+WC11112,Oliver Peters,Client Services,WC10031,Active,2012-12-09,,,,CC-CLS-30,Madrid
+WC11114,Hugo Mendez,Client Services,WC10031,Active,2015-07-10,,,,CC-CLS-10,Madrid
+WC11117,Yara Romero,Client Services,WC10031,Active,2024-06-25,,,,CC-CLS-20,Madrid
+WC11118,Fiona Lozano,Client Services,WC10031,Active,2014-04-14,,,,CC-CLS-30,Madrid
+WC11121,Alice Dietrich,Client Services,WC10031,Active,2020-10-15,,,,CC-CLS-10,Madrid
+WC11123,Cristina Vidal,Client Services,WC10031,Terminated,2023-10-25,2026-09-29,,,CC-CLS-10,Madrid
+WC11125,Laura Garrido,Client Services,WC10031,Active,2019-05-08,,,,CC-CLS-10,Madrid
+WC11126,Erik Rojas,Client Services,WC10031,Active,2019-09-05,,,,CC-CLS-20,Madrid
+WC11128,Yara Castro,Client Services,WC10031,Active,2020-06-02,,,,CC-CLS-30,Madrid
+WC11130,Pedro Ferrer,Client Services,WC10031,Active,2018-06-04,,,,CC-CLS-30,Madrid
+WC11133,Nicolas Garrido,Client Services,WC10031,Active,2019-01-28,,,,CC-CLS-20,Madrid
+WC11134,Pablo Blanco,Client Services,WC10031,Active,2023-10-28,,,,CC-CLS-20,Madrid
+WC11136,Hugo Klein,Client Services,WC10031,Active,2016-11-13,,,,CC-CLS-20,Madrid
+WC11137,Karin Bauer,Client Services,WC10031,Active,2016-12-03,,,,CC-CLS-20,Madrid
+WC11139,Ana Zimmer,Client Services,WC10031,Active,2023-09-12,,,,CC-CLS-10,Madrid
+WC11141,Julia Herrera,Client Services,WC10031,Terminated,2018-09-24,2026-09-18,,,CC-CLS-30,Madrid
+WC11144,Nicolas Romero,Client Services,WC10031,Active,2018-09-05,,,,CC-CLS-30,Madrid
+WC11146,Amir Fuentes,Client Services,WC10031,Active,2021-02-02,,,,CC-CLS-10,Madrid
+WC11147,Javier Herrera,Client Services,WC10031,Active,2015-08-05,,,,CC-CLS-10,Madrid
+WC11150,Raquel Ferrer,Client Services,WC10031,Active,2022-04-26,,,,CC-CLS-30,Madrid
+WC11151,Pablo Lorenzo,Client Services,WC10031,Active,2019-02-13,,,,CC-CLS-10,Madrid
+WC11154,Beatriz Pascual,Client Services,WC10031,Active,2017-07-28,,,,CC-CLS-20,Madrid
+WC11155,Alba Urquijo,Client Services,WC10031,Active,2019-03-22,,,,CC-CLS-30,Madrid
+WC11157,Oliver Vega,Client Services,WC10031,Active,2014-09-29,,,,CC-CLS-20,Madrid
+WC11159,Patricia Gallardo,Client Services,WC10031,Active,2016-05-17,,,,CC-CLS-10,Madrid
+WC11160,Gabriel Winter,Client Services,WC10031,Active,2016-07-18,,,,CC-CLS-20,Madrid
+WC11162,Grace Peters,Client Services,WC10031,Active,2013-02-18,,,,CC-CLS-30,Madrid
+WC11165,Nora Arnaiz,Client Services,WC10031,Active,2012-04-18,,,,CC-CLS-30,Madrid
+WC11168,Lucia Reyes,Client Services,WC10031,Active,2016-11-07,,,,CC-CLS-10,Madrid
+WC11170,Victor Torres,Client Services,WC10031,Active,2016-07-06,,,,CC-CLS-20,Madrid
+WC11173,Lucas Arnaiz,Client Services,WC10031,Active,2021-03-01,,,,CC-CLS-30,Madrid
+WC11174,Maria Garrido,Client Services,WC10031,Active,2023-07-31,,,,CC-CLS-10,Madrid
+WC11176,Sara Molina,Client Services,WC10031,Pending hire,2026-10-19,,,,CC-CLS-20,Madrid
+WC11179,Elena Vega,Client Services,WC10031,Active,2023-09-18,,,,CC-CLS-30,Madrid
+WC11182,Tobias Sanz,Client Services,WC10031,Active,2025-05-28,,,,CC-CLS-20,Madrid
+WC11183,Gabriel Brandt,Client Services,WC10031,Active,2023-06-17,,,,CC-CLS-20,Madrid
+WC11184,Diego Madsen,Client Services,WC10031,Active,2025-08-25,,,,CC-CLS-20,Madrid
+WC11185,Fiona Vogel,Client Services,WC10031,Active,2018-04-13,,,,CC-CLS-10,Madrid
+WC11186,Mia Suarez,Client Services,WC10031,Active,2024-09-05,,,,CC-CLS-30,Madrid
+WC11188,Rosa Eriksen,Client Services,WC10031,Active,2014-06-07,,,,CC-CLS-20,Madrid
+WC11189,Clara Soler,Client Services,WC10031,Active,2022-05-28,,,,CC-CLS-10,Madrid
+WC11190,Felix Madsen,Client Services,WC10031,Active,2023-11-18,,,,CC-CLS-20,Madrid
+WC11193,Rosa Benitez,Client Services,WC10031,Active,2020-01-20,,,,CC-CLS-20,Madrid
+WC11194,Sofia Benitez,Client Services,WC10031,Active,2014-10-11,,,,CC-CLS-10,Madrid
+WC11195,Nicolas Winter,Client Services,WC10031,Active,2020-12-08,,,,CC-CLS-10,Madrid
+WC11198,Diego Fischer,Client Services,WC10031,Active,2020-03-03,,,,CC-CLS-30,Madrid
