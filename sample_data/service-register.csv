@@ -1,0 +1,9 @@
+Account,Owner,Purpose,Interactive sign-in allowed,Directory
+svc-clearing-batch,WC10059,End-of-day clearing batch on CLR-BATCH-01,Yes,AD
+svc-reporting,,Nightly regulatory reporting extracts,No,AD
+svc-sqlprod,WC10032,SQL Server service on CLR-SQL-01/02,No,AD
+svc-backup,WC10037,Backup agent and media server,No,AD
+svc-swift-gw,WC10018,SWIFT gateway file transfer,No,AD
+svc-mft,WC10040,Managed file transfer to members,No,AD
+svc-scan,WC10037,Scan to folder on office printers,No,AD
+svc-monitoring,WC10034,Monitoring collector (WMI),No,AD

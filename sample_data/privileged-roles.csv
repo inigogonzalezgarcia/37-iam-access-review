@@ -1,0 +1,18 @@
+Principal,Role,State,AssignmentType,StartDateTime,EndDateTime,MemberType,DirectoryScopeId
+lbrandt@woodgroveclearing.example,Exchange Administrator,Active,Assigned,2025-09-01T08:00:00Z,,Direct,/
+akeller@woodgroveclearing.example,Global Administrator,Active,Activated,2026-10-01T07:55:00Z,2026-10-01T11:55:00Z,Direct,/
+akeller@woodgroveclearing.example,Global Administrator,Eligible,,2026-04-01T00:00:00Z,2027-03-31T23:59:00Z,Direct,/
+bg-admin01@woodgroveclearing.example,Global Administrator,Active,Assigned,2022-01-10T09:00:00Z,,Direct,/
+bg-admin02@woodgroveclearing.example,Global Administrator,Active,Assigned,2022-01-10T09:00:00Z,,Direct,/
+bnakamura@woodgroveclearing.example,Global Administrator,Eligible,,2026-04-01T00:00:00Z,2027-03-31T23:59:00Z,Direct,/
+rkowalski@woodgroveclearing.example,Global Administrator,Active,Assigned,2026-06-17T14:22:00Z,,Direct,/
+ejansen2@woodgroveclearing.example,Helpdesk Administrator,Active,Assigned,2024-10-07T09:00:00Z,,Direct,/
+gromero@woodgroveclearing.example,Helpdesk Administrator,Active,Assigned,2024-10-07T09:00:00Z,,Direct,/
+iherrera@woodgroveclearing.example,Helpdesk Administrator,Active,Assigned,2024-10-07T09:00:00Z,,Direct,/
+mwebb@woodgroveclearing.example,Helpdesk Administrator,Active,Assigned,2024-10-07T09:00:00Z,,Direct,/
+tnovak@woodgroveclearing.example,Intune Administrator,Eligible,,2026-04-01T00:00:00Z,2027-03-31T23:59:00Z,Direct,/
+coconnor@woodgroveclearing.example,Privileged Role Administrator,Eligible,,2026-04-01T00:00:00Z,2027-03-31T23:59:00Z,Direct,/
+dfoster@woodgroveclearing.example,Security Administrator,Eligible,,2026-05-11T00:00:00Z,2027-05-10T23:59:00Z,Direct,/
+marnaiz2@woodgroveclearing.example,Security Reader,Active,Assigned,2025-02-03T09:00:00Z,,Direct,/
+nbrennan@woodgroveclearing.example,Security Reader,Active,Assigned,2025-02-03T09:00:00Z,,Direct,/
+vhale@woodgroveclearing.example,User Administrator,Eligible,,2026-01-15T00:00:00Z,2027-01-14T23:59:00Z,Direct,/
